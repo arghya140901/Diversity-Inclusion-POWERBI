@@ -6,10 +6,10 @@ I've been working hard to improve gender balance at the executive management lev
 ⭐Task 4: Diversity & Inclusion Dashboard in Power BI. 
 
 Insights (my project):
-💡  Hiring : Men & Women
+💡  Hiring : Male & Female
 💡  Promotion : Whole Year of the Employees
 💡  Turnover Rate : Leavers & Non-Leavers
-💡  Performance Rating : Avg. Rating of Men nad Womans
+💡  Performance Rating : Avg. Rating of Male & Female
 💡  Executive Gender Balance : Executive hiring & Promotion to Executive (FY20 and FY21)
 💡  Age group : Different types Employees according to their age groups.
 
