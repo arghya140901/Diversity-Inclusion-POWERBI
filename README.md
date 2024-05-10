@@ -6,11 +6,11 @@ I've been working hard to improve gender balance at the executive management lev
 ⭐Task 4: Diversity & Inclusion Dashboard in Power BI. 
 
 Insights (my project):
-💡  Hiring : Male & Female
-💡  Promotion : Whole Year of the Employees
-💡  Turnover Rate : Leavers & Non-Leavers
-💡  Performance Rating : Avg. Rating of Male & Female
-💡  Executive Gender Balance : Executive hiring & Promotion to Executive (FY20 and FY21)
+💡  Hiring : Male & Female.
+💡  Promotion : Whole Year of the Employees.
+💡  Turnover Rate : Leavers & Non-Leavers.
+💡  Performance Rating : Avg. Rating of Male & Female.
+💡  Executive Gender Balance : Executive hiring & Promotion to Executive (FY20 and FY21).
 💡  Age group : Different types Employees according to their age groups.
 
 Using this insight, we can predict which customers are most likely to churn and hence reach out to them in advance to make sure they are satisfied with company's services.
